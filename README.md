@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradumn <h3> passionate using python</h3>
+<h1 align="center">Hi 👋, I'm Pradumn <h3>love to work using python(language)</h3>
 <h3 align="center">A passionate frontend developer from India dedicated to crafting exceptional web experiences.I specialize in HTML, CSS, and JavaScript, transforming designs into intuitive interfaces.I thrive on collaborative projects, leveraging frameworks like React and Vue.js to exceed user expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsofpradumn&label=Profile%20views&color=0e75b6&style=flat" alt="gitsofpradumn" /> </p>
