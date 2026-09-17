@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pradumn <h3>love to work using python(language)</h3>
-<h3 align="center">A passionate frontend developer from India dedicated to crafting exceptional web experiences.I specialize in HTML, CSS, and JavaScript, transforming designs into intuitive interfaces.I thrive on collaborative projects, leveraging frameworks like React and Vue.js to exceed user expectations.</h3>
+<h1 align="center">Hi 👋, I'm Pradumn</h1>
+
+<h3 align="center">B.Tech CSE Graduate | Data Science & AI/ML Enthusiast | Python Developer</h3>
+
+<p align="center">
+I build practical AI/ML and data-driven applications using Python, Flask, Streamlit, Scikit-learn, TensorFlow, and SQL. I work on end-to-end machine learning projects, RAG-based LLM applications, semantic retrieval, embeddings, and AI-powered web applications. I also enjoy solving DSA problems in C++ and continuously improving my skills in data science, machine learning, and software development.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsofpradumn&label=Profile%20views&color=0e75b6&style=flat" alt="gitsofpradumn" /> </p>
 
